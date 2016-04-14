@@ -2,6 +2,6 @@ This is a straight forward movie rating prediction system that tries to predict 
 
 Data set used : 100K dataset at http://grouplens.org/datasets/movielens/
 
-The method is evaluated using a MAD value. The MAD achieved is about 0.8.
+The method is evaluated using a MAD value. The MAD achieved is about 0.8. Still huge scope for improvement.
 
 Python, numPy, sciPy, pycharm IDE.
