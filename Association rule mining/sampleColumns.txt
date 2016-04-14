@@ -1,0 +1,1 @@
+buying:high,buying:low,buying:med,buying:vhigh,maint:high,maint:low,maint:med,maint:vhigh,doors:2,doors:3,doors:4,doors:5more,persons:2,persons:4,persons:more,boot:big,boot:med,boot:small,safety:high,safety:low,safety:med,class:acc,class:good,class:unacc,class:vgood
